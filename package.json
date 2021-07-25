@@ -1,0 +1,22 @@
+{
+  "name": "ts_carteiravirtual",
+  "version": "1.0.0",
+  "description": "Avaliação Tecnospeed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josueazevedo/ts_carteiravirtual.git"
+  },
+  "author": "Josué Azevedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josueazevedo/ts_carteiravirtual/issues"
+  },
+  "homepage": "https://github.com/josueazevedo/ts_carteiravirtual#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.6"
+  }
+}
